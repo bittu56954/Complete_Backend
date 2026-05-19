@@ -30,3 +30,9 @@ console.log(name.split(' ')[1]);
 //git status - to check all file changes in reposotry
 
 //git add file name or entire file using .
+
+//git commit
+//git branch
+//git add origin 
+//git push
+//git pull
